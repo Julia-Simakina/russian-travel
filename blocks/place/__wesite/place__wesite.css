@@ -1,7 +1,7 @@
 .place__wesite {
   align-self: end;
 }
-@media screen and (max-width: 685px) {
+@media screen and (max-width: 767px) {
   .place__wesite {
     margin: 0 16px 32px;
   }
